@@ -52,7 +52,7 @@ Execute o script main.py para obter a cotação do dólar:
 python main.py
 ```
 ### Estrutura do Projeto
-
+```plaintext
 dolar_scraping/
 ├── venv/               # Ambiente virtual
 ├── main.py          # Script principal de web scraping
