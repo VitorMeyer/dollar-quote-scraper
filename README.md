@@ -14,7 +14,7 @@ Este projeto realiza web scraping no Google para obter a cotação do dólar.
 Clone o repositório do GitHub para sua máquina local:
 ```bash
 
-cd seu-repositorio
+cd dollar-quote-scraper
 ````
 ### 2. Criar um Ambiente Virtual
 Crie um ambiente virtual para isolar as dependências do projeto:
