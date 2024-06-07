@@ -16,14 +16,14 @@ Clone o repositório do GitHub para sua máquina local:
 
 cd seu-repositorio
 ````
-###2. Criar um Ambiente Virtual
+### 2. Criar um Ambiente Virtual
 Crie um ambiente virtual para isolar as dependências do projeto:
 
 ```bash
 python -m venv venv
 
 ```
-###3. Ativar o Ambiente Virtual
+### 3. Ativar o Ambiente Virtual
 Ative o ambiente virtual:
 
 No Windows:
@@ -37,21 +37,21 @@ bash
 
 source venv/bin/activate
 ```
-###4. Instalar as Dependências
+### 4. Instalar as Dependências
 Instale as dependências listadas no arquivo requirements.txt:
 
 ```bash
 
 pip install -r requirements.txt
 ```
-###5. Executar o Script
+### 5. Executar o Script
 Execute o script main.py para obter a cotação do dólar:
 
 ```bash
 
 python main.py
 ```
-Estrutura do Projeto
+### Estrutura do Projeto
 
 dolar_scraping/
 ├── venv/               # Ambiente virtual
